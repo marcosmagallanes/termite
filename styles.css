@@ -1,0 +1,11 @@
+Input {
+    dock: bottom;
+}
+
+TextLog {
+    border: solid red;
+}
+
+Text {
+    color: red;
+}
