@@ -2,10 +2,6 @@ Input {
     dock: bottom;
 }
 
-TextLog {
-    border: solid red;
-}
-
-Text {
-    color: red;
+DataTable {
+    width: 100%;
 }
